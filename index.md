@@ -2,6 +2,7 @@
 layout: home
 title: Home
 ---
+<div style="max-width: 800px; margin: auto;">
 # Bridal Shower Recipe Collection
 <p align="center">
   <img src="assets/img/wedding.jpg" width="500">
@@ -24,3 +25,4 @@ Unlike traditional recipe collections organized by cuisine or ingredient, this c
 ## Why It Matters
 
 These recipes are more than cooking instructions—they are expressions of care, identity, and memory. Together, they document how everyday knowledge, like cooking, is passed between people and preserved through meaningful moments.
+</div>
