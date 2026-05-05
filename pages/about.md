@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About
+permalink: /about.html
 ---
 
 ## About This Collection
