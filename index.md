@@ -17,7 +17,9 @@ You can explore the collection by browsing recipes, searching by keyword, or fil
 ## About This Collection
 
 Unlike traditional recipe collections organized by cuisine or ingredient, this collection is centered around a single life event. Each recipe reflects a connection between the contributor and the bride, offering insight into how food is shared as part of social traditions and celebrations.
-
+<p align="center">
+  <img src="assets/img/rings.jpg" width="350">
+</p>
 ## Why It Matters
 
 These recipes are more than cooking instructions—they are expressions of care, identity, and memory. Together, they document how everyday knowledge, like cooking, is passed between people and preserved through meaningful moments.
