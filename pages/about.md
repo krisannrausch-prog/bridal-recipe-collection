@@ -8,6 +8,7 @@ permalink: /about.html
 <p align="center">
   <img src="assets/img/rings.jpg" width="350">
 </p>
+
 The Bridal Shower Recipe Collection is a digital archive of handwritten recipe cards gathered at a 2010 bridal shower. Each recipe was contributed as a gift from family and friends, making the collection both a set of cooking instructions and a record of personal relationships and shared traditions.
 
 The collection preserves not only the recipes themselves but also the handwritten notes, formatting, and personal touches that give each card its meaning. By digitizing these materials, the collection ensures that both the content and context of these items are maintained over time.
