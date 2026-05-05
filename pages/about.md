@@ -5,6 +5,7 @@ permalink: /about.html
 ---
 
 ## About This Collection
+
 <p align="center">
   <img src="assets/img/rings.jpg" width="350">
 </p>
