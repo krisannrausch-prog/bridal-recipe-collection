@@ -3,6 +3,7 @@ layout: home
 title: Home
 ---
 <div style="max-width: 800px; margin: auto;">
+  
 # Bridal Shower Recipe Collection
 <p align="center">
   <img src="assets/img/wedding.jpg" width="500">
