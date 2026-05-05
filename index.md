@@ -20,6 +20,7 @@ Unlike traditional recipe collections organized by cuisine or ingredient, this c
 <p align="center">
   <img src="assets/img/rings.jpg" width="350">
 </p>
+
 ## Why It Matters
 
 These recipes are more than cooking instructions—they are expressions of care, identity, and memory. Together, they document how everyday knowledge, like cooking, is passed between people and preserved through meaningful moments.
