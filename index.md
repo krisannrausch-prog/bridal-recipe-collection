@@ -4,6 +4,18 @@ title: Home
 ---
 # Bridal Shower Recipe Collection
 
-This collection contains handwritten recipe cards collected at my 2010 bridal shower. The recipes reflect family traditions, friendships, and the social meaning of sharing food and cooking knowledge.
+This collection features handwritten recipe cards gathered at my 2010 bridal shower. Each recipe was contributed by family and friends as a gift, making the collection both personal and meaningful. Beyond the recipes themselves, the cards preserve handwriting, memories, and the relationships behind each contribution.
 
-The collection was created to preserve both the recipes themselves and the handwritten notes and memories attached to them. Each item is a scanned digital version of an original recipe card contributed by family and friends.
+## How to Use This Collection
+
+You can explore the collection by browsing recipes, searching by keyword, or filtering by subject and dish type. Users may choose to look for a specific recipe, compare different types of dishes, or simply browse to discover the variety of contributions.
+
+[Browse the Collection](browse.html)
+
+## About This Collection
+
+Unlike traditional recipe collections organized by cuisine or ingredient, this collection is centered around a single life event. Each recipe reflects a connection between the contributor and the bride, offering insight into how food is shared as part of social traditions and celebrations.
+
+## Why It Matters
+
+These recipes are more than cooking instructions—they are expressions of care, identity, and memory. Together, they document how everyday knowledge, like cooking, is passed between people and preserved through meaningful moments.
