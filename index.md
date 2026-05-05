@@ -44,7 +44,7 @@ Unlike traditional recipe collections organized by cuisine or ingredient, this c
 <h2>Why It Matters</h2>
 
 <p>
-These recipes are more than cooking instructions: they are expressions of care, identity, and memory.
+These recipes are more than cooking instructions; they are expressions of care, identity, and memory.
 </p>
 
 </div>
