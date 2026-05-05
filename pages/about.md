@@ -1,27 +1,30 @@
 ---
-title: About
 layout: about
-permalink: /about.html
-# include CollectionBuilder info at bottom
-credits: true
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
+title: About
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+## About This Collection
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+The Bridal Shower Recipe Collection is a digital archive of handwritten recipe cards gathered at a 2010 bridal shower. Each recipe was contributed as a gift from family and friends, making the collection both a set of cooking instructions and a record of personal relationships and shared traditions.
 
-## About the Collection
+The collection preserves not only the recipes themselves but also the handwritten notes, formatting, and personal touches that give each card its meaning. By digitizing these materials, the collection ensures that both the content and context of these items are maintained over time.
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+## Purpose
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+The primary purpose of this collection is preservation. While the original recipe cards exist as physical objects, they are easily misplaced or separated from their original context. This digital collection brings them together in a structured and accessible format, allowing them to be revisited and shared.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+The collection also highlights how recipes function as more than practical instructions. They act as social artifacts that reflect identity, relationships, and traditions.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+## Audience
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The intended audience includes the creator and their family, as well as anyone interested in food traditions, informal knowledge sharing, and the role of everyday objects in documenting personal history.
+
+## Metadata and Organization
+
+Each item in the collection is described using structured metadata, including contributor, recipe originator, date, dish type, subject keywords, and format. Controlled vocabulary was used where possible to ensure consistency, particularly for dish types and subject terms.
+
+Because many recipes are informally titled (for example, “Mom’s Pumpkin Pie” or “Ruth’s Brownies”), additional descriptive fields help clarify the contents and improve searchability.
+
+## Reflection
+
+This project demonstrates that metadata is not neutral. Decisions about naming, description, and organization shape how users find and interpret information. By creating this collection, I gained a deeper understanding of how classification systems influence access and meaning, and how even small collections can reflect broader cultural and social dynamics.
