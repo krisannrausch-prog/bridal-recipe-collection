@@ -45,7 +45,3 @@ Because many recipes are informally titled (for example, “Mom’s Pumpkin Pie�
 This project demonstrates that metadata is not neutral. Decisions about naming, description, and organization shape how users find and interpret information. By creating this collection, I gained a deeper understanding of how classification systems influence access and meaning, and how even small collections can reflect broader cultural and social dynamics.
 
 </div>
-
-## Reflection
-
-This project demonstrates that metadata is not neutral. Decisions about naming, description, and organization shape how users find and interpret information. By creating this collection, I gained a deeper understanding of how classification systems influence access and meaning, and how even small collections can reflect broader cultural and social dynamics.
